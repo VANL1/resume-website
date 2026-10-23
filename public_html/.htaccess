@@ -1,0 +1,6 @@
+# Apache + mod_wsgi: serve existing files directly, route the rest to Django.
+AddDefaultCharset utf-8
+AddHandler wsgi-script .py
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ /cgi-bin/wsgi.py/$1 [QSA,L]

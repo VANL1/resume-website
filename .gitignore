@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+env/
+ENV/
+
+# Django
+db.sqlite3
+db.sqlite3-journal
+*.sqlite3
+local_settings.py
+*.log
+media/
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Generated static and deployment artifacts
+public_html/static/
+public_html/cgi-bin/wsgi.py
+public_html_bak_*/
+.backup-*/
+.remote-*
+
+# IDE / OS
+.idea/
+.vscode/
+.directory
+.DS_Store
+Thumbs.db
+
+# Tests and tools
+.coverage
+htmlcov/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/

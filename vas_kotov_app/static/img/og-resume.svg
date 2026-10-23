@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f4f1e9"/>
+  <rect x="40" y="40" width="1120" height="550" fill="none" stroke="#22211f" stroke-opacity=".16"/>
+
+  <text x="80" y="108" font-family="Liberation Sans, Arial, sans-serif" font-size="34" font-weight="bold" letter-spacing="-2" fill="#22211f">ВК<tspan fill="#f15b35">.</tspan></text>
+  <text x="1120" y="104" text-anchor="end" font-family="JetBrains Mono, monospace" font-size="17" letter-spacing="2" fill="#716f68">САЙТ-РЕЗЮМЕ / 2026</text>
+
+  <circle cx="80" cy="172" r="5" fill="#f15b35"/>
+  <text x="96" y="178" font-family="JetBrains Mono, monospace" font-size="15" letter-spacing="2" fill="#716f68">ОТКРЫТ К ПРЕДЛОЖЕНИЯМ</text>
+
+  <text x="82" y="288" font-family="JetBrains Mono, monospace" font-size="28" letter-spacing="8" fill="#f15b35">JUNIOR</text>
+  <text x="76" y="398" font-family="Liberation Sans, Arial, sans-serif" font-size="104" font-weight="bold" letter-spacing="-6" fill="#22211f">Python-</text>
+  <text x="76" y="492" font-family="Liberation Sans, Arial, sans-serif" font-size="104" font-weight="bold" letter-spacing="-6" fill="#263de0">разработчик</text>
+
+  <text x="80" y="550" font-family="JetBrains Mono, monospace" font-size="19" letter-spacing="1.5" fill="#716f68">МОСКВА · PYTHON · DJANGO · GIT</text>
+  <text x="1120" y="550" text-anchor="end" font-family="JetBrains Mono, monospace" font-size="19" letter-spacing="1.5" fill="#263de0">VAS-KOTOV.RU</text>
+
+  <g transform="translate(935 330)">
+    <circle r="150" fill="none" stroke="#263de0" stroke-opacity=".28"/>
+    <ellipse rx="112" ry="188" fill="none" stroke="#22211f" stroke-opacity=".25" transform="rotate(34)"/>
+    <ellipse rx="168" ry="64" fill="none" stroke="#f15b35" transform="rotate(-36)"/>
+    <circle cx="18" cy="22" r="82" fill="#263de0"/>
+    <circle r="82" fill="#f15b35"/>
+    <circle r="6" fill="#22211f"/>
+  </g>
+
+  <path d="M810 186 L815 198 L827 203 L815 208 L810 220 L805 208 L793 203 L805 198 Z" fill="#263de0"/>
+  <path d="M1058 430 L1062 438 L1070 442 L1062 446 L1058 454 L1054 446 L1046 442 L1054 438 Z" fill="#f15b35"/>
+
+  <text x="1110" y="154" text-anchor="end" font-family="JetBrains Mono, monospace" font-size="16" letter-spacing="2" fill="#263de0">17</text>
+</svg>

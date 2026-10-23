@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#22211f"/>
+  <text x="31" y="43" text-anchor="middle" font-family="Liberation Sans, Arial, sans-serif" font-size="29" font-weight="bold" fill="#f4f1e9">ВК</text>
+  <circle cx="53" cy="13" r="6" fill="#f15b35"/>
+</svg>
